@@ -2,4 +2,4 @@ name=input()
 phone=input()
 print("제 이름은", name, "입니다.")
 print("제 전화번호는", phone, "입니다.")
-print("저는 이걸 이해하지 못했어요")
+      
